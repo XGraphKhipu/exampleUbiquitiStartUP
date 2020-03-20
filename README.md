@@ -1,7 +1,7 @@
 # exampleUbiquitiStartUP
-example how to run script at startup to Ubiquiti 
+example how to run script in the startup to Ubiquiti 
 
-connecto to Ubiquiti thought ssh
+connect to Ubiquiti thought ssh
 
 vi /etc/system.cfg
 
